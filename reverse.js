@@ -32,5 +32,4 @@ function reverseString( inputString ){
   }
   //console.log( "reversed string: ", reversedString );
   return reversedString;
-
 }
